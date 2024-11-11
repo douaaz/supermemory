@@ -17,7 +17,7 @@ index_name = "supermem-vector-dev"
 
 # [[vectorize]]
 # binding = "VECTORIZE_INDEX"
-# index_name = "supermem-vector-prod"
+# index_name = "supermemory"
 
 [ai]
 binding = "AI"
@@ -31,8 +31,8 @@ binding = "AI"
 
 [[kv_namespaces]]
 binding = "KV"
-id = "37a90353da63401e84e20e71165531d0"
-preview_id = "c58b6202814f4224acea97627d0c18aa"
+id = "f49c445a98b74884b3dc689fe9d16def"
+preview_id = "8931517d9e70486f92629dc7eb248946"
 
 [placement]
 mode = "smart"
